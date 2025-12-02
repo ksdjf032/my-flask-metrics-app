@@ -128,7 +128,7 @@ Possible extensions of this could include:
 
 ## 7) Links
 
-* GitHub Repo: <INSERT-REPO-URL>
+* GitHub Repo: https://github.com/ksdjf032/my-flask-metrics-app
 * Public App: https://my-flask-metrics-app.fly.dev/
 
 </content>
