@@ -1,6 +1,6 @@
 <content>
-## 1) Executive Summary
-
+**## 1) Executive Summary**
+  
 **Problem:** Provide a tiny, reproducible web service that demonstrates core observability and service concepts (structured logging and basic metrics) from the course module. Target audience: instructors and students who need a minimal, containerized demo to inspect logs and metrics.
 
 **Solution (non-technical):** This project creates a tiny Flask web service with a `/hello` endpoint and a `/metrics` endpoint. It logs every request in a readable format and keeps track of usage with basic metrics. The service is packaged in a Docker container, so it can be run with just one command, and the README explains how to use it.
