@@ -1,5 +1,5 @@
 <content>
-**## 1) Executive Summary**
+## 1) Executive Summary
   
 **Problem:** Provide a tiny, reproducible web service that demonstrates core observability and service concepts (structured logging and basic metrics) from the course module. Target audience: instructors and students who need a minimal, containerized demo to inspect logs and metrics.
 
